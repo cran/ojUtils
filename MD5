@@ -1,0 +1,14 @@
+6513a24cd7714b472c8f1bd392c120a5 *DESCRIPTION
+87b80786a58ab3f271e0388bd659ecfb *NAMESPACE
+d3d195fa140046120d0c1987631b490f *R/RcppExports.R
+7b7b68faac8bcce852b8981fe2ece7e0 *R/ifelseR.R
+ca6c56271e55eb149181161ee8c36bbf *R/triang2cashflow.R
+707281cedc1354ae837d2f1669ff6051 *README.md
+fb8ba07c90834c5cc5844a072e66b3ae *man/combn_C.Rd
+73e6599a65a47fcaccb7473da6f35df7 *man/ifelseC.Rd
+f36c34c5338c95e303115fc8e8a3396d *src/RcppExports.cpp
+bdc02f3b03ed72359ce20d768d2f2291 *src/combn_C.cpp
+9fb54b171795c54ea39177ea7aae2b3c *src/ifelseC.cpp
+b8eb8369157244002954371ed8072e57 *src/triang2cf.cpp
+21aa22aba79b2da011663d7ed13f9cf7 *tests/testthat.R
+9e54c8b7477c19b69e30c3c87b7e4a95 *tests/testthat/test_ifelse.R
